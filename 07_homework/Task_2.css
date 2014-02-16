@@ -1,0 +1,23 @@
+#header {
+    display: block;
+}
+#content {
+    border: solid black;
+    width: 70%;
+    display: block;
+    float: right;
+    position: relative;
+    right: -8px;
+}
+#sidebar {
+    border: solid black;
+    width: 30%;
+    display: block;
+    float: left;
+    position: fixed;
+    left: 0px;
+}
+#footer {
+    clear: right;
+    display: block;
+}

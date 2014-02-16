@@ -1,0 +1,31 @@
+#header {
+    display: block;
+}
+#content {
+    border: solid black;
+    width: 65%;
+    display: block;
+    position: absolute;
+    left: 260px;
+}
+#sidebar_left {
+    border: solid black;
+    width: 20%;
+    display: block;
+    float: left;
+    position: fixed;
+    left: 0px;
+}
+#sidebar_right {
+    border: solid black;
+    width: 15%;
+    display: block;
+    float: right;
+    position: relative;
+    right: -18px;
+}
+#footer {
+    position: relative;
+    clear: right;
+    display: block;
+}

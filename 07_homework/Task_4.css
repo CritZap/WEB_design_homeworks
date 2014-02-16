@@ -1,0 +1,13 @@
+#menu {
+    text-align: center;
+}
+#menu a {
+    text-decoration: none;
+}
+#menu li {
+    display: inline-block;
+}
+a:hover {
+    background-color: orange;
+    color: red;
+}
